@@ -3,7 +3,7 @@ https://docs.wallet.tg/pay/
 
 ## Installation
 ```commandline
-pip install walletpay-sdk
+pip install walletpay
 ```
 
 ## Example
